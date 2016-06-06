@@ -1,9 +1,7 @@
 HISTORY
-
 A small thing of the in-story history.
 
 The year is 2154. Earth is engaged in a deadly, Civilization III-like war.
-
 Many empires have risen and fallen. All that is known is there are only two empires now: The Reds and The Blues.
-
-Both currently control two patches of land - one controls the USA, the other controls Mongolia.
+Both currently control two patches of land - one controls Spain, the other controls Mongolia.
+Nobody knows how it will turn out, but hopefully one team will rise above all...
