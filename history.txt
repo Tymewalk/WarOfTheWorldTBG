@@ -1,7 +1,12 @@
 HISTORY
 A small thing of the in-story history.
+Times are in Standard Post Units (SPUs). They refer to post numbers.
 
 The year is 2154. Earth is engaged in a deadly, Civilization III-like war.
 Many empires have risen and fallen. All that is known is there are only two empires now: The Reds and The Blues.
 Both currently control two patches of land - one controls Spain, the other controls Sweden.
-Nobody knows how it will turn out, but hopefully one team will rise above all...
+They were in peace, until they were provoked, and now they are at war...
+
+SPU 0: The declaration of war was official. Both teams now seek to destroy the other.
+
+13 SPUs later, the war began. Two generals on each side began rallying troops.
