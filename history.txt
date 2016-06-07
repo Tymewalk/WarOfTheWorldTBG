@@ -12,3 +12,5 @@ SPU 0: The declaration of war was official. Both teams now seek to destroy the o
 13 SPUs later, the war began. Two generals on each side began rallying troops.
 
 At SPU 21, the conquest began. Red had moved their forces into Portugal and France, whereas Blue set out on conquering Scandanavia. Both sides were destined to collide soon.
+
+At SPU 23, The Reds seized control of Germany and Italy.
