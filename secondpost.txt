@@ -5,22 +5,26 @@ Territory claimed (click for potentially more recent map):
 Units:
 [quote]
 RED TEAM:
- SPAIN - 5 foot units
- $1000
+ SPAIN - 3 foot units
+ PORTUGAL - 1 foot unit
+ FRANCE - 2 foot units
+ $950
 
 BLUE TEAM:
  ANGOLA - 5 foot units
  $1000
 
 GREEN TEAM:
- ALASKA - 5 foot units
+ ALASKA - Nothing
+ RUSSIA - 1 foot unit
+ CANADA - 4 foot units
  $1000
 
 YELLOW TEAM: 
- AUSTRALIA - 5 foot units
+ AUSTRALIA - 3 foot units
+ NEW ZEALAND - 1 foot unit
+ INDONESIA - 1 foot unit
  $1000
-
- $75
 [/quote]
 
 Players:
