@@ -1,0 +1,134 @@
+DISCLAIMER: [i]This game does not intend, in any way, shape, or form, to resemble the actual World Wars. Any similar-looking elements are purely coincidental.[/i]
+PLAYERS: [i]Let's keep it that way. Don't name yourself something from a real war, and don't intentionally recreate real battles. (Coincidence is OK.)[/i]
+
+The year is 2156. After the events of the first War of the World, a second war was initiated.
+
+This war promises victory for one and defeat for everyone else. The question is - which one will you get?
+
+[b]The Rules[/b]
+Each team starts with 3 foot units. These units are your military power - they conquer, seek, and destroy. All information regarding units is public.
+
+You also have $1,000 to spend. You can buy units with them. Each team gains only $75 each turn, so spend wisely!
+
+[b]Units and Types[/b]
+Units may move to and from bordering countries, or across sea routes (see Moving below).
+
+Foot units - nothing special. Rolls 1d10 to attack, 1d10 to defend. - $50/unit
+Strongman - stronger than the average unit. Rolls 1d15 to attack, 1d10 to defend. - $100/unit
+Armor - hardier than the average unit. Rolls 1d10 to attack, 1d15 to defend. - $100/unit
+Shield - can not attack, but defends quite nicely. All damage goes to these units first. Does not attack, rolls 1d15 to defend. - $50/unit
+Scouter - quick little guy to buy cheap. 1d5 to attack, 1d5 to defend. - $25/unit
+Infiltrator - can pass through enemy terrain, but only if friendly terrain is on the other side. Rolls 1d10 to attack, 1d10 to defend. - $100/unit
+Special Forces - heavily trained, super-tough elite units. Rolls 1d20 to attack, 1d20 to defend. - $300/unit
+Tank (Special) - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
+Nuke (Special) - a heavily-armored missile that obliterates all targets. Can travel up to 2 spaces. Uses Nuke-style attack. Rolls 1d20 to attack each unit, rolls 1d30 + 30 to defend. - $1000/unit
+
+[b]Special attack types[/b]
+[u]Nuke[/u]
+Attacking Nukes may not attack with anyone else.
+When Nukes attack, they deal their damage to EVERY unit individually, not the standard way.
+However, nukes do not attack first. The defenders deal their damage first, giving a chance to destroy the nuke beforehand.
+
+When you buy, the territory the unit is brought into must be:
+- Under your control
+- Not gained this turn
+- Not empty
+
+[b]Moving[/b]
+You may move to any territory connected to you through land, or through sea routes (marked on the map). Special rules are:
+[list=*]
+[*]Alaska is its own territory. US doesn't claim it.[/*]
+[*]Small islands like Hawaii are not counted.[/*]
+[*]Canals like the Panama and Suez canals do not block land travel. Tanks can move through them.[/*]
+[/list]
+
+[b]Map Key[/b]
+Black dotted line - Sea route (tanks can not move through these)
+Two black lines - Land bridge (tanks can move through these)
+Colored territory - Claimed by (insert color) team
+Darkened colored territory - Empty territory claimed by (team)
+
+
+Some territories are split, but for the sake of clarity, count as one:
+[list=*]
+[*]Indonesia[/*]
+[*]Australia/Tasmania[/*]
+[*]New Zealand[/*]
+[*]Philippines[/*]
+[/list]
+
+[b]Territory[/b]
+As mentioned, each team starts with one territory. To conquer more:
+- if it is unclaimed ground, simply enter with troops.
+- if it is enemy territory that is empty, attack with 5 points or higher. If you fail, your troops retreat.
+- if it is enemy territory that is filled with units, defeat the troops there.
+
+If a territory is claimed but empty, it will be marked by a darker shade of the team's color.
+
+[b]Battle[/b]
+Battle occurs when one team enters another's territory with troops. It is decided by dice rolls.
+Every attacking troop rolls their attack amount, then the defending troops roll their defence amount.
+If the attack amount is greater than the defence amount minus 10, the troops rolling the lowest are killed first. If it isn't, nothing happens.
+If the defenders are still alive, they then roll for attack, and the attackers roll for defence. The process is repeated similarly.
+If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers.
+
+When the lowest rolling troops are killed first, each has to take D points of damage to die, where D is the defence they rolled.
+
+For example:
+
+Attacking team sends 3 strongmen to fight 3 foot units.
+The strongmen roll 6, 11, and 8 for 25 total damage. The foot units roll 7, 9, and 10, for a total of 26 defence.
+
+Since 25 > 26 - 10, the foot units rolling 7 and 9 are killed. The foot unit rolling 10 survives, as there was not enough damage left to kill him.
+
+The lone foot unit then rolls 6, and the strongmen roll 4, 6, and 3, for a total of 13 defence.
+The strongman rolling 3 is killed, but no others are.
+
+Since both sides are still alive, the strongmen (down one member) retreat.
+
+[b]Turns[/b]
+Each team may take one turn every 3 hours. Turns are reset at 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, and 21:00 each day in UTC time.
+
+In one turn you may:
+- Buy up to 3 units
+- Move units from one territory to another (you may do this 5 times, see note)
+- Battle once
+
+One move counts as moving any number of troops from one territory to another.
+
+For instance, moving 6 troops from Canada to Alaska is one move, but moving 4 more troops from Canada to the USA is a separate move.
+You may also not move troops that have already been moved.
+
+Mark your actions like this:
+"~~> I buy 3 foot units in Russia."
+"~~> I move 1 tank and 1 strongman to Poland."
+
+This WILL signify your action has been taken, and now counts towards the total. Use caution, using it in a post means your action gets taken, whether you like it or not!
+You don't have to do everything in one post, in fact, multiple players on one team can act on the same turn.
+
+[b]Other Nations?[/b]
+You may conquer new land connected to your team's territory at any time and secede from your main country. In doing so you will recieve 2 foot units and $75.
+You may NOT abuse this to gain an advantage. Just because your team is failing does not mean you can just leave and get a fresh start.
+
+[b]Negotiations[/b]
+Yes, you can trade units, cash, and territory.
+You may NOT trade all your territory.
+If you want to trade everything, however, you may surrender to a team.
+Surrender is not allowed if:
+- You are one of the only 2 teams
+- One party is a new nation that was created 10 or less turns ago
+- You are attempting to scam for extra units/coins/other advantages
+
+[b]New Stuff[/b]
+To fit in with story (and game balance) I may add new stuff.
+
+[b]Fairness Agreement[/b]
+By joining this game I agree that I will act fairly among my teammates, cooperate and plan strategy, and will try to effectively play, regardless of my team's current state.
+I will not abuse the seceding or surrender features of the game for an advantage, and will use these features politely and properly.
+
+Now that that's out of the way, here is a form:
+[quote]
+Team:
+Catchphrase (for silliness):
+I have read and agree to the Fairness Agreement above.
+[/quote]
