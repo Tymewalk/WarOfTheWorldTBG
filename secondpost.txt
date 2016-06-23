@@ -1,0 +1,112 @@
+[b]Current Board and Stats[/b]
+Territory claimed (click for potentially more recent map):
+[url=https://github.com/Tymewalk/WarOfTheWorldTBG/blob/game-1/currentboard.png][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-1/currentboard.png[/img][/url]
+
+Units:
+[quote]
+RED TEAM:
+ SPAIN - 1 foot unit, 1 strongman
+ PORTUGAL - 1 foot unit
+ FRANCE - Nothing
+ ITALY - 1 strongman
+ AUSTRIA - 1 foot unit
+ SLOVENIA - 1 foot unit
+ CZECH REPUBLIC - Nothing
+ MOROCCO - Nothing
+ SWITZERLAND - 1 foot unit
+ UNITED KINGDOM - 1 foot unit
+ HUNGARY - 2 foot units
+ ROMANIA - 1 foot unit, 1 strongman
+ BULGARIA - 1 foot unit, 1 strongman
+ ALGERIA - Nothing
+ TURKEY - 1 foot unit
+ EGYPT - 1 foot unit
+ GERMANY - 1 shield
+ LIBYA - Nothing
+ SAUDI ARABIA - Nothing
+ GEORGIA - 3 foot units
+ IRAQ - Nothing
+ POLAND - 1 tank
+ NIGER - Nothing
+ DENMARK - 1 foot unit
+ NIGERIA - 1 foot unit
+ IRAN - 1 foot unit
+ PAKISTAN - 1 foot unit
+ $150
+
+BLUE TEAM:
+ SWEDEN - 4 foot units
+ NORWAY - 1 foot unit, 1 strongman
+ FINLAND - 1 foot unit, 3 strongmen
+ $250
+
+GREEN TEAM:
+ ALASKA: Nothing
+ CANADA: Nothing
+ GREENLAND: 1 foot unit, 1 shield, 1 plane
+ USA: Nothing
+ CUBA: Nothing
+ VENEZUELA: Nothing
+ MEXICO: Nothing
+ GUATEMALA: Nothing
+ BRAZIL: 1 shield, 1 plane
+ ARGENTINA: Nothing
+ CHILE: Nothing
+ HONDURAS: Nothing
+ NICARAGUA: Nothing
+ COSTA RICA: 1 foot unit
+ BOLIVIA: 1 foot unit
+ RUSSIA: 1 foot soldier
+ BELARUS: Nothing
+ CHINA: Nothing
+ UKRAINE: 4 foot units, 1 plane, 1 armor, 1 strongman
+ $0
+
+YELLOW TEAM: 
+ AUSTRALIA - 2 foot units
+ NEW ZEALAND - 1 foot unit
+ PAPUA NEW GUINEA - 1 foot unit
+ PHILLIPINES - 1 foot unit
+ INDIA - 1 foot unit
+ $125
+
+MAROON TEAM:
+ SOUTH AFRICA - 1 foot unit
+ MOZAMBIQUE - 1 foot unit
+ ZIMBABWE - 1 foot unit
+ BOTSWANA - 1 foot unit
+ NAMIBIA - 1 foot unit
+ $75
+[/quote]
+
+Players:
+[quote]
+THE REDS:
+ Tymewalk
+ ev3commanderTBG
+
+THE BLUES:
+ Rue (Beagel)
+
+GREEN TEAM:
+ TBGChildGamer (gained independence from Blue)
+ [Owner's note: Green Team has requested no players join this team]
+ 
+ YELLOW TEAM:
+  jj10dino (split off from Blue)
+
+ MAROON TEAM:
+  Faressain
+[/quote]
+
+[b]Flags[/b]
+From left to right and top to bottom: The Reds, The Blues, Green Team, Yellow Team, Maroon Team
+[img]https://github.com/Tymewalk/WarOfTheWorldTBG/raw/game-1/flags/red-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-1/flags/blue-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-1/flags/green-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-1/flags/yellow-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-1/flags/maroon-small.png[/img]
+
+[b]Pacts[/b]
+Yellow Team has agreed to give Green Team $25 per turn in return for protection.
+Maroon Team has agreed to give Green Team $25 per turn in return for protection.
+Red Team, Yellow Team, and Green Team are all in a cease-fire.
+
+If anyone would like to make changes to their team's flag, I will redraw whatever you did in Inkscape if you'd like. Just get the approval of your team first.
+See [url=https://github.com/Tymewalk/WarOfTheWorldsTBG]the GitHub repo[/url] for a blank map and more.
