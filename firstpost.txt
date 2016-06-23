@@ -1,9 +1,10 @@
+[big]War of the World II: Rebirth[/big]
+
 DISCLAIMER: [i]This game does not intend, in any way, shape, or form, to resemble the actual World Wars. Any similar-looking elements are purely coincidental.[/i]
 PLAYERS: [i]Let's keep it that way. Don't name yourself something from a real war, and don't intentionally recreate real battles. (Coincidence is OK.)[/i]
 
-The year is 2156. After the events of the first War of the World, a second war was initiated.
-
-This war promises victory for one and defeat for everyone else. The question is - which one will you get?
+The year is 2156. After the events of the first War of the World, a second war was initiated. The world, still shaky, must get up and fight if it will overcome this.
+This new war promises victory for one and defeat for everyone else. The question is - which one will you get?
 
 [b]The Rules[/b]
 Each team starts with 3 foot units. These units are your military power - they conquer, seek, and destroy. All information regarding units is public.
