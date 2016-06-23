@@ -88,7 +88,7 @@ The strongman rolling 3 is killed, but no others are.
 Since both sides are still alive, the strongmen (down one member) retreat.
 
 [b]Turns[/b]
-Each team may take one turn every 3 hours. Turns are reset at 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, and 21:00 each day in UTC time.
+Each team may take one turn every 6 hours. Turns are reset at 00:00, 06:00, 12:00, and 18:00 each day in UTC time.
 
 In one turn you may:
 - Buy up to 3 units
