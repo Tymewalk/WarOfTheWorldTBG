@@ -20,12 +20,6 @@ YELLOW TEAM:
  AUSTRALIA - 5 foot units
  $1000
 
-MAROON TEAM:
- SOUTH AFRICA - 1 foot unit
- MOZAMBIQUE - 1 foot unit
- ZIMBABWE - 1 foot unit
- BOTSWANA - 1 foot unit
- NAMIBIA - 1 foot unit
  $75
 [/quote]
 
@@ -47,11 +41,14 @@ GREEN TEAM:
 [/quote]
 
 [b]Flags[/b]
-From left to right and top to bottom: The Reds, The Blues, Green Team, Yellow Team, Maroon Team
+From left to right and top to bottom: Red Team, Blue Team, Green Team, Yellow Team
 [img]https://github.com/Tymewalk/WarOfTheWorldTBG/raw/game-2/flags/red-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/blue-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/green-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/yellow-small.png[/img]
 
 [b]Pacts[/b]
 None yet.
 
+[b]Special Notices[/b]
+None yet.
+
 If anyone would like to make changes to their team's flag, I will redraw whatever you did in Inkscape if you'd like. Just get the approval of your team first.
-See [url=https://github.com/Tymewalk/WarOfTheWorldsTBG]the GitHub repo[/url] for a blank map and more.
+See [url=https://github.com/Tymewalk/WarOfTheWorldsTBG]the GitHub repo[/url] for a blank map, full game log, and more.
