@@ -15,10 +15,10 @@ BLUE TEAM:
  $1000
 
 GREEN TEAM:
- ALASKA - Nothing
+ ALASKA - 3 foot units
  RUSSIA - 1 foot unit
  CANADA - 4 foot units
- $1000
+ $850
 
 YELLOW TEAM: 
  AUSTRALIA - 3 foot units
