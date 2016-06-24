@@ -9,25 +9,34 @@ RED TEAM:
  PORTUGAL - 1 foot unit
  FRANCE - 1 foot unit
  UNITED KINGDOM - 1 foot unit
- GERMANY - 3 foot units
- $725
+ GERMANY - 1 foot unit
+ POLAND - 2 foot units
+ $650
 
 BLUE TEAM:
  ANGOLA - 5 foot units, 2 shields, 1 special forces
- $725
+ $800
 
 GREEN TEAM:
- ALASKA - 3 foot units
- RUSSIA - 1 foot unit
- CANADA - 4 foot units
- $925
+ ALASKA - Nothing
+ RUSSIA - 3 foot units
+ CANADA - Nothing
+ GREENLAND - Nothing
+ ICELAND - 1 foot unit
+ USA - Nothing
+ CUBA - 1 foot unit
+ MEXICO - 1 foot unit
+ CHINA - 1 foot unit
+ FINLAND - 1 foot unit
+ $1000
 
 YELLOW TEAM: 
  AUSTRALIA - 3 foot units
  NEW ZEALAND - 1 foot unit
  INDONESIA - 1 foot unit
- $1075
+ $1150
 [/quote]
+Turns last calculated for 06:00 UTC turn Jun 24th
 
 Players:
 [quote]
