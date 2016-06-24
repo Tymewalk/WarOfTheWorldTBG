@@ -25,11 +25,16 @@ GREEN TEAM:
  GREENLAND - Nothing
  ICELAND - 1 foot unit
  USA - Nothing
- CUBA - 1 foot unit
- MEXICO - 1 foot unit
+ CUBA - Nothing
+ MEXICO - Nothing
  CHINA - 2 foot units
  FINLAND - 1 foot unit
  UNITED KINGDOM - 1 foot unit
+ GUATEMALA - Nothing
+ HONDURAS - Nothing
+ NICARAGUA - 1 foot unit
+ COLOMBIA - Nothing
+ BRAZIL - 1 foot unit
  $950
 
 YELLOW TEAM: 
