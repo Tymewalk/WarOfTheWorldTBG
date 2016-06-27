@@ -12,12 +12,14 @@ RED TEAM:
  POLAND - 1 foot unit
  UKRAINE - Nothing
  RUSSIA - 1 foot unit, 3 special forces
+ NAMIBIA - 1 foot unit
  $300
 
 BLUE TEAM:
- ANGOLA - 1 foot unit, 3 armors
- D. R. CONGO - 4 foot units, 2 shields, 1 special forces
- $1100
+ ANGOLA - Nothing
+ D. R. CONGO - 3 armors
+ SOUTH SUDAN - 4 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouts
+ $950
 
 GREEN TEAM:
  ALASKA - Nothing
