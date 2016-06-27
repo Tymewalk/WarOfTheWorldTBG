@@ -1,4 +1,4 @@
-[big]War of the World II: Rebirth[/big]
+[b][u]War of the World II: Rebirth[/b][/u]
 
 DISCLAIMER: [i]This game does not intend, in any way, shape, or form, to resemble the actual World Wars. Any similar-looking elements are purely coincidental.[/i]
 PLAYERS: [i]Let's keep it that way. Don't name yourself something from a real war, and don't intentionally recreate real battles. (Coincidence is OK.)[/i]
@@ -74,10 +74,9 @@ If the attack amount is greater than the defence amount minus 10, the troops rol
 If the defenders are still alive, they then roll for attack, and the attackers roll for defence. The process is repeated similarly.
 If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers.
 
-When the lowest rolling troops are killed first, each has to take D points of damage to die, where D is the defence they rolled.
+When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defence they rolled.
 
-For example:
-
+[u]Example[/u]
 Attacking team sends 3 strongmen to fight 3 foot units.
 The strongmen roll 6, 11, and 8 for 25 total damage. The foot units roll 7, 9, and 10, for a total of 26 defence.
 
@@ -86,10 +85,10 @@ Since 25 > 26 - 10, the foot units rolling 7 and 9 are killed. The foot unit rol
 The lone foot unit then rolls 6, and the strongmen roll 4, 6, and 3, for a total of 13 defence.
 The strongman rolling 3 is killed, but no others are.
 
-Since both sides are still alive, the strongmen (down one member) retreat.
+Since both sides are still alive, the strongmen (down one member) retreat back to their original territory.
 
 [b]Turns[/b]
-Each team may take one turn every 6 hours. Turns are reset at 00:00, 06:00, 12:00, and 18:00 each day in UTC time.
+Each team's turn lasts every 12 hours. Turns are reset at 00:00,and 12:00 each day in UTC time.
 
 In one turn you may:
 - Buy up to 3 units
