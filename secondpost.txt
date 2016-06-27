@@ -10,17 +10,17 @@ RED TEAM:
  FRANCE - 1 foot unit, 3 strongmen
  GERMANY - 1 foot unit
  POLAND - 1 foot units
- UKRAINE - 1 foot unit
- $750
+ UKRAINE - Nothing
+ RUSSIA - 1 foot unit, 3 special forces
+ $300
 
 BLUE TEAM:
  ANGOLA - 1 foot unit, 3 armors
  D. R. CONGO - 4 foot units, 2 shields, 1 special forces
- $800
+ $1100
 
 GREEN TEAM:
  ALASKA - Nothing
- RUSSIA - 3 foot units
  CANADA - Nothing
  GREENLAND - Nothing
  ICELAND - 1 foot unit
@@ -37,12 +37,12 @@ GREEN TEAM:
  BRAZIL - 1 foot unit
  INDIA - Nothing
  INDONESIA - 4 foot units, 2 special forces
- $850
+ $1150
 
 YELLOW TEAM: 
  AUSTRALIA - 3 foot units, 2 special forces
  NEW ZEALAND - 1 foot unit
- $500
+ $800
 [/quote]
 Turns last calculated for 12:00 UTC turn Jun 25th
 
