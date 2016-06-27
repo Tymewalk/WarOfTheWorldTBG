@@ -68,7 +68,7 @@ From left to right and top to bottom: Red Team, Blue Team, Green Team, Yellow Te
 [img]https://github.com/Tymewalk/WarOfTheWorldTBG/raw/game-2/flags/red-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/blue-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/green-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/yellow-small.png[/img]
 
 [b]Pacts[/b]
-None yet.
+Red Team and Blue Team have an alliance.
 
 [b]Special Notices[/b]
 None yet.
