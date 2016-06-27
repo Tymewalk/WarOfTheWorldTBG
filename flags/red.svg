@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="red.svg"
-   inkscape:export-filename="/home/timmy/ghp/wotw/flags/red-small.png"
-   inkscape:export-xdpi="29.347826"
-   inkscape:export-ydpi="29.347826">
+   inkscape:export-filename="/home/timmy/ghp/wotw/flags/rednew.png"
+   inkscape:export-xdpi="88.04348"
+   inkscape:export-ydpi="88.04348">
   <defs
      id="defs4981" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="260.06811"
+     inkscape:zoom="0.38183766"
+     inkscape:cx="245.66409"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -63,11 +63,27 @@
        x="-625.71429"
        y="175.21935" />
     <rect
-       y="-586.64789"
+       y="-667.44452"
        x="-625.71429"
-       height="331.42856"
+       height="77.142853"
        width="920"
        id="rect5529"
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <rect
+       transform="scale(1,-1)"
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15151"
+       width="920"
+       height="77.142853"
+       x="-625.71429"
+       y="-546.64789" />
+    <rect
+       y="-425.45834"
+       x="-625.71429"
+       height="77.142853"
+       width="920"
+       id="rect15153"
        style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(1,-1)" />
   </g>
