@@ -30,9 +30,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.59"
      inkscape:cx="-251.23495"
-     inkscape:cy="808.07734"
+     inkscape:cy="618.62353"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g12461"
      showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -12436,6 +12436,30 @@
            id="path12427"
            d="m -849.60152,661.99456 8.40088,7.76273 0,20.32313 37.99541,10.60337 -0.44181,-18.5559 30.48469,0.88361 19.2186,-1.10451 8.61524,-7.28982 5.74349,-0.88362 0,-29.60107 -3.97626,0 -5.30169,-5.74349 -94.98851,2.20904 0,6.18529 -5.66848,1.20782 z"
            style="fill:#48484a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.93226024,0,0,1.0223388,-175.79076,308.71948)"
+       id="g12459">
+      <g
+         id="g12461">
+        <path
+           sodipodi:nodetypes="cccaccacc"
+           inkscape:connector-curvature="0"
+           id="path12463"
+           d="m -99.189877,139.4547 50.42189,0.70511 8.46137,126.41941 c 0,0 23.301105,5.34189 30.4406913,13.91512 5.435875,6.52742 6.225243,24.71132 6.225243,24.71132 L -143.27382,303.01694 c 0,0 -1.57396,-15.96041 2.98023,-21.64316 7.57451,-9.45152 34.05257,-12.67922 34.05257,-12.67922 z"
+           style="opacity:1;fill:#1a9420;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="64.483734"
+           cy="90.159843"
+           cx="-73.273804"
+           id="circle12465"
+           style="opacity:1;fill:#f9ffba;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12469"
+           d="m -73.234927,210.22364 -2.11534,90.25461"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
