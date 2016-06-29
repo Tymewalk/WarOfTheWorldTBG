@@ -11,21 +11,23 @@ RED TEAM:
  GERMANY - 1 foot unit
  POLAND - 1 foot unit
  UKRAINE - Nothing
- RUSSIA - 1 foot unit, 2 special forces
+ RUSSIA - 3 special forces, 3 strongmen
  NAMIBIA - Nothing
  ZIMBABWE - Nothing
  SOUTH AFRICA - 1 foot unit
- CHINA - 2 special forces
+ CHINA - Nothing
  MOZAMBIQUE - 1 scouter
- ALASKA - 1 special forces
- $25
+ ALASKA - Nothing
+ $75
 
 BLUE TEAM:
  ANGOLA - Nothing
  D. R. CONGO - Nothing
  SOUTH SUDAN - 3 armors
- SUDAN - 6 foot units, 2 shields, 1 special forces, 1 strongman, 3 scouters
- $975
+ SUDAN - Nothing
+ ETHIOPIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
+ CHAD - 1 scouter
+ $775
 
 GREEN TEAM:
  CANADA - Nothing
@@ -34,7 +36,7 @@ GREEN TEAM:
  USA - Nothing
  CUBA - Nothing
  MEXICO - Nothing
- FINLAND - 4 foot units
+ FINLAND - Nothing
  UNITED KINGDOM - 1 foot unit
  GUATEMALA - Nothing
  HONDURAS - Nothing
@@ -50,7 +52,7 @@ GREEN TEAM:
 YELLOW TEAM: 
  ELIMINATED
 [/quote]
-Turns last calculated for 12:00 UTC turn Jun 28th
+Turns last calculated for 12:00 UTC turn Jun 29th
 
 Players:
 [quote]
