@@ -23,10 +23,12 @@ RED TEAM:
 BLUE TEAM:
  ANGOLA - Nothing
  D. R. CONGO - Nothing
- SOUTH SUDAN - 3 armors
- SUDAN - Nothing
- ETHIOPIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
- CHAD - 1 scouter
+ SUDAN - 3 armors
+ SOUTH SUDAN - Nothing
+ ETHIOPIA - Nothing
+ SOMALIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
+ NIGER - 1 scouter
+ CHAD - Nothing
  $775
 
 GREEN TEAM:
