@@ -7,17 +7,18 @@ Units:
 RED TEAM:
  SPAIN - 3 foot units
  PORTUGAL - 1 foot unit
- FRANCE - 1 foot unit, 3 strongmen
+ FRANCE - Nothing
  GERMANY - 1 foot unit
  POLAND - 1 foot unit
  UKRAINE - Nothing
- RUSSIA - 3 special forces, 3 strongmen
+ RUSSIA - Nothing
  NAMIBIA - Nothing
  ZIMBABWE - Nothing
  SOUTH AFRICA - 1 foot unit
- CHINA - Nothing
+ CHINA - 3 special forces, 3 strongmen
  MOZAMBIQUE - 1 scouter
  ALASKA - Nothing
+ UNITED KINGDOM - 1 foot unit, 3 strongmen
  $225
 
 BLUE TEAM:
@@ -39,7 +40,6 @@ GREEN TEAM:
  CUBA - Nothing
  MEXICO - Nothing
  FINLAND - Nothing
- UNITED KINGDOM - 1 foot unit
  GUATEMALA - Nothing
  HONDURAS - Nothing
  NICARAGUA - 1 foot unit
