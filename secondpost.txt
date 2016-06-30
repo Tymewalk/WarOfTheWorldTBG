@@ -18,7 +18,7 @@ RED TEAM:
  CHINA - Nothing
  MOZAMBIQUE - 1 scouter
  ALASKA - Nothing
- $75
+ $225
 
 BLUE TEAM:
  ANGOLA - Nothing
@@ -29,7 +29,7 @@ BLUE TEAM:
  SOMALIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
  NIGER - 1 scouter
  CHAD - Nothing
- $775
+ $925
 
 GREEN TEAM:
  CANADA - Nothing
@@ -46,15 +46,15 @@ GREEN TEAM:
  COLOMBIA - Nothing
  BRAZIL - 1 foot unit
  INDIA - Nothing
- INDONESIA - Nothing
+ INDONESIA - 6 foot units, 2 special forces
+ NEW ZEALAND - Nothing
  AUSTRALIA - Nothing
- NEW ZEALAND - 6 foot units, 2 special forces
- $1000
+ $1150
 
 YELLOW TEAM: 
  ELIMINATED
 [/quote]
-Turns last calculated for 12:00 UTC turn Jun 29th
+Turns last calculated for 12:00 UTC turn Jun 30th
 
 Players:
 [quote]
