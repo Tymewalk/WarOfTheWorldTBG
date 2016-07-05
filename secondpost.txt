@@ -9,8 +9,8 @@ RED TEAM:
  PORTUGAL - 1 foot unit
  FRANCE - Nothing
  GERMANY - 1 foot unit
- POLAND - 1 foot unit
- UKRAINE - Nothing
+ POLAND - Nothing
+ UKRAINE - 2 foot units
  RUSSIA - Nothing
  NAMIBIA - Nothing
  ZIMBABWE - Nothing
@@ -18,8 +18,9 @@ RED TEAM:
  MOZAMBIQUE - 1 scouter
  ALASKA - Nothing
  UNITED KINGDOM - Nothing
- ICELAND - 1 foot unit, 3 strongmen
- $225
+ ICELAND - Nothing
+ GREENLAND - 2 foot unit, 4 strongmen
+ $25
 
 BLUE TEAM:
  ANGOLA - Nothing
@@ -34,7 +35,6 @@ BLUE TEAM:
 
 GREEN TEAM:
  CANADA - Nothing
- GREENLAND - Nothing
  USA - Nothing
  CUBA - Nothing
  MEXICO - Nothing
@@ -43,12 +43,13 @@ GREEN TEAM:
  HONDURAS - Nothing
  NICARAGUA - 1 foot unit
  COLOMBIA - Nothing
- BRAZIL - 1 foot unit
  INDIA - Nothing
  INDONESIA - Nothing
  NEW ZEALAND - Nothing
  AUSTRALIA - Nothing
- CHINA - 6 foot units, 2 special forces, 3 strongmen
+ CHINA - Nothing
+ RUSSIA - 6 foot units, 2 special forces, 3 strongmen
+ LIBERIA - 1 foot unit
  $650
 
 YELLOW TEAM: 
