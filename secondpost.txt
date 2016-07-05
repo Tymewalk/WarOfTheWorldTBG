@@ -15,12 +15,11 @@ RED TEAM:
  NAMIBIA - Nothing
  ZIMBABWE - Nothing
  SOUTH AFRICA - 1 foot unit
- CHINA - 3 special forces, 6 strongmen
  MOZAMBIQUE - 1 scouter
  ALASKA - Nothing
  UNITED KINGDOM - Nothing
  ICELAND - 1 foot unit, 3 strongmen
- $75
+ $225
 
 BLUE TEAM:
  ANGOLA - Nothing
@@ -31,7 +30,7 @@ BLUE TEAM:
  SOMALIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
  NIGER - 1 scouter
  CHAD - Nothing
- $1075
+ $1225
 
 GREEN TEAM:
  CANADA - Nothing
@@ -45,11 +44,12 @@ GREEN TEAM:
  NICARAGUA - 1 foot unit
  COLOMBIA - Nothing
  BRAZIL - 1 foot unit
- INDIA - 6 foot units, 2 special forces, 3 strongmen
+ INDIA - Nothing
  INDONESIA - Nothing
  NEW ZEALAND - Nothing
  AUSTRALIA - Nothing
- $500
+ CHINA - 6 foot units, 2 special forces, 3 strongmen
+ $650
 
 YELLOW TEAM: 
  ELIMINATED
