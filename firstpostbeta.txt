@@ -1,4 +1,4 @@
-[h]War of the World III - Beta[/h]
+[h]War of the World III (Beta)[/h]
 [i]Uncharted Territory[/i]
 
 This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix a few, rebalance gameplay, and reduce the workload on both players and me, the GM.
@@ -17,8 +17,6 @@ What are the changes? I'll show you.
 [i]Players: Let's keep it that way. Don't name yourself something or someone from a real war, and don't do anything that would make it very similar to a real war. This is a game, not a war re-enactment.[/i]
 [i](That doesn't mean you shouldn't attack someone because it would look similar, just don't go pretending you're a real war leader.)[/i]
 
-With that out of the way, here are the rules:
-
 [b]Basic Rules[/b]
 [u]The Starting Board[/u]
 There are two teams - Red and Blue. (You may rename yourselves as you wish, but all players must agree.)
@@ -34,7 +32,7 @@ Unlike WotW II, which used a time-based turn system, turns are taken as soon as 
 
 Every turn may consist of the following actions:
 
-- You may buy up to three units, to be placed in any non-empty territory you own
+- You may buy up to three units, to be placed in any non-empty territory you own (see Units below)
 - You may battle twice
 - You may move up to four groups of units
 
@@ -69,7 +67,7 @@ If both sides have troops that are still alive, the attackers retreat. If the de
 
 When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defense they rolled.
 
-[b]Units and Types[/b]
+[b]Units[/b]
 These are units you can buy.
 
 Foot Units - nothing special. Rolls 1d10 to attack, 1d10 to defend. - $50/unit
@@ -114,9 +112,7 @@ Sea routes will normally disband when:
 [*] Two countries are using the sea route to do battle a lot (one country shuts down the sea route to protect itself)
 [/list]
 
-Anything can happen, however.
-
-Only two sea routes will be altered per country per turn, and no more than five sea routes will be altered per turn.
+These are just guidelines, though. However, only two sea routes will be altered per country per turn, and no more than five sea routes will be altered per turn.
 
 [b](After this point you can basically skip everything here, since a lot of this isn't available this early in the game.)[/b]
 
@@ -127,9 +123,7 @@ In the middle of a game, you may decide you dislike your teammates' actions. If 
 This can be done one of two ways - peacefully or by force.
 
 If you wish to separate peacefully, your team can discuss which resources go to you. Your team must give you at least $25 and one piece of land with at least one unit. (You will obtain all the units in the land given to you.)
-
 If they do not wish for you to separate, you may do so forcefully by taking up to four units, moving them into an empty or unoccupied territory, and then claiming a separation. You will gain the units and the unoccupied territory, however, you will not gain any money this way.
-
 In either case, you may not join with another team for three turns.
 
 Peaceful separations may be done under the following conditions:
@@ -149,7 +143,6 @@ Forceful separations may be done under all of the peaceful conditions, and:
 
 [u]New Alliances - Joining Teams[/u]
 If you happen to decide being on your own doesn't work, you can join forces with another team.
-
 You will become a member of that team, and they will gain all of your resources.
 
 To do so, the following conditions must be met:
@@ -168,3 +161,5 @@ To do so, the following conditions must be met:
 [*] Removed Infiltrator and Nuke.
 [*] Sea routes now have some actual rules.
 [/list]
+
+I myself will be playing on whatever team needs players.
