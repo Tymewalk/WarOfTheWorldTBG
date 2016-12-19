@@ -51,6 +51,7 @@ If you are done with your turn, use ">> Done." You will not be able to use any o
 [u]Movement[/u]
 If a territory is unoccupied, moving units there will cause you to then own that territory.
 If a territory is occupied by an enemy, you will do battle (see Battle below).
+If a territory is owned by an enemy, but empty, you must deal 8 damage to it to claim it.
 
 Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
 

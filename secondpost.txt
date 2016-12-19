@@ -1,92 +1,23 @@
 [b]Current Board and Stats[/b]
 Territory claimed (click for potentially more recent map):
-[url=https://github.com/Tymewalk/WarOfTheWorldTBG/blob/game-2/currentboard.png][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/currentboard.png[/img][/url]
+[url=https://github.com/Tymewalk/WarOfTheWorldTBG/blob/game-3-beta/currentboard.png][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-3-beta/currentboard.png[/img][/url]
 
 Units:
 [quote]
 RED TEAM:
- SPAIN - 3 foot units
- PORTUGAL - 1 foot unit
- FRANCE - Nothing
- GERMANY - 1 foot unit
- POLAND - Nothing
- UKRAINE - 2 foot units
- RUSSIA - Nothing
- NAMIBIA - Nothing
- ZIMBABWE - Nothing
- SOUTH AFRICA - 1 foot unit
- MOZAMBIQUE - 1 scouter
- ALASKA - Nothing
- UNITED KINGDOM - Nothing
- ICELAND - Nothing
- GREENLAND - 2 foot unit, 4 strongmen
- $400
+ (TBA)
+ $250
 
-BLUE TEAM:
- ANGOLA - Nothing
- D. R. CONGO - Nothing
- SUDAN - 3 armors
- SOUTH SUDAN - Nothing
- ETHIOPIA - Nothing
- SOMALIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
- NIGER - 1 scouter
- CHAD - Nothing
- $1600
-
-GREEN TEAM:
- CANADA - Nothing
- USA - Nothing
- CUBA - Nothing
- MEXICO - Nothing
- FINLAND - Nothing
- GUATEMALA - Nothing
- HONDURAS - Nothing
- NICARAGUA - 1 foot unit
- COLOMBIA - Nothing
- INDIA - Nothing
- INDONESIA - Nothing
- NEW ZEALAND - Nothing
- AUSTRALIA - Nothing
- CHINA - Nothing
- RUSSIA - 6 foot units, 2 special forces, 3 strongmen
- LIBERIA - 1 foot unit
- $1075
-
-YELLOW TEAM: 
- ELIMINATED
-
-ORANGE TEAM:
- DENMARK: 2 foot units
- $525
+BLUE TEAM
+ (TBA)
+ $250
 [/quote]
-Turns last calculated for 12:00 UTC turn Jul 11th
 
 Players:
 [quote]
 RED TEAM:
- Tymewalk
+ (TBA)
 
 BLUE TEAM:
- Wordweaver
-
-GREEN TEAM:
- TBGChildGamer
- [Owner's note: Green Team has requested no players join this team]
- 
- YELLOW TEAM:
-  jj10dino
-  Smiley100P
+ (TBA)
 [/quote]
-
-[b]Flags[/b]
-From left to right and top to bottom: Red Team, Blue Team, Green Team, Yellow Team (Eliminated)
-[img]https://github.com/Tymewalk/WarOfTheWorldTBG/raw/game-2/flags/red-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/blue-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/green-small.png[/img][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-2/flags/yellow-small.png[/img]
-
-[b]Pacts[/b]
-Red Team and Blue Team have an alliance.
-
-[b]Special Notices[/b]
-None yet.
-
-If anyone would like to make changes to their team's flag, I will redraw whatever you did in Inkscape if you'd like. Just get the approval of your team first.
-See [url=https://github.com/Tymewalk/WarOfTheWorldsTBG]the GitHub repo[/url] for a blank map, full game log, and more.
