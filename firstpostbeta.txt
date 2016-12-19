@@ -51,7 +51,9 @@ If you are done with your turn, use ">> Done." You will not be able to use any o
 [u]Movement[/u]
 If a territory is unoccupied, moving units there will cause you to then own that territory.
 If a territory is occupied by an enemy, you will do battle (see Battle below).
-If a territory is owned by an enemy, but empty, you must deal 8 damage to it to claim it.
+If a territory is owned by an enemy, but empty, you must be able deal 5 damage to it to claim it.
+ - If you do deal 5 damage, you then own the territory.
+ - If you do not, no damage is dealt back, and you retreat.
 
 Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
 
@@ -85,8 +87,8 @@ If you do not specify a place for the unit to be placed, the action will not be 
 [b]Map Key[/b]
 Black dotted line - Sea route (tanks can not move through these)
 Solid black line - Land bridge (tanks can move through these)
-Colored territory - Claimed by (insert color) team
-Darkened colored territory - Empty territory (no units) claimed by team
+Colored territory - Claimed by that color's team
+Darkened colored territory - Empty territory (no units) claimed by that color's team
 
 [u]Special Map Rules[/u]
 - Alaska is its own territory.
