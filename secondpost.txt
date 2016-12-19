@@ -1,5 +1,5 @@
 [b]Current Board and Stats[/b]
-Territory claimed (click for potentially more recent map):
+Territory claimed (if you're not seeing the latest changes, click here):
 [url=https://github.com/Tymewalk/WarOfTheWorldTBG/blob/game-3-beta/currentboard.png][img]https://raw.githubusercontent.com/Tymewalk/WarOfTheWorldTBG/game-3-beta/currentboard.png[/img][/url]
 
 Units:
