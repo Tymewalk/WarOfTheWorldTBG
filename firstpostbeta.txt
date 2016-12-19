@@ -1,12 +1,12 @@
 [h]War of the World III (Beta)[/h]
 [i]Uncharted Territory[/i]
 
-This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix a few, rebalance gameplay, and reduce the workload on both players and me, the GM.
+This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix some of those reasons, rebalance gameplay, and reduce the workload on both players and me, the GM.
 
 Right now, this is a beta. It may not get quick updates, it may change things, and it most likely will not be very balanced.
 
 [b]Wait, "beta"? What and why?[/b]
-This is a thread where we'll attempt to play a game using the rules here. This game will end prematurely as I'm just using it to test balancing and such.
+This is a thread where we'll attempt to play a game using the rules here. This game may end prematurely as I'm just using it to test balancing and such.
 The real thread will be posted at the end when this "game" is over.
 Additionally, rules may change at any time during this (for balancing). This will not happen in the real game.
 
@@ -58,11 +58,12 @@ If a territory is owned by an enemy, but empty, you must be able deal 5 damage t
 Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
 
 [u]Battle[/u]
-Battle occurs when one team enters another's territory with troops. It is decided by dice rolls.
+Battle occurs when one team enters another's territory with troops. It is decided by dice rolls. 
 Every attacking troop rolls their attack amount, then the defending troops roll their defense amount.
-If the attack amount is greater than the defense amount minus 10, the troops rolling the lowest are killed first. If it isn't, nothing happens.
-If the defenders are still alive, they then roll for attack, and the attackers roll for defense. The process is repeated similarly.
-If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers.
+The defenders who rolled the least are killed first, in order of value. (For example, foot units are killed before tanks. The only exception is the shield.)
+If the defenders are still alive, they then roll to attack, and the attackers roll for defense. The process is repeated similarly.
+If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers. 
+(If the attackers die, nothing happens.)
 
 When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defense they rolled.
 
@@ -75,14 +76,14 @@ Armor - hardier than the average unit. Rolls 1d10 to attack, 1d15 to defend. - $
 Shield - can not attack, but defends quite nicely. All damage goes to these units first. Does not attack, rolls 1d15 to defend. - $75/unit
 Scouter - simple unit, easy to buy, and good for early conquest. 1d4 to attack, 1d4 to defend. - $25/unit
 Special Forces - heavily trained, super-tough elite units. Rolls 1d20 to attack, 1d20 to defend. - $300/unit
-Tank (Special) - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
+Tank - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
 
 When you buy a unit, the territory the unit is placed into must be:
 - Under your control
 - Not gained this turn
 - Not empty
 
-If you do not specify a place for the unit to be placed, the action will not be counted.
+If you do not specify a valid place for the unit to be placed, the action will not be counted.
 
 [b]Map Key[/b]
 Black dotted line - Sea route (tanks can not move through these)
@@ -160,6 +161,7 @@ To do so, the following conditions must be met:
 [*] Removed Infiltrator and Nuke.
 [*] Sea routes now have some actual rules.
 [*] Completely rework separating
+[*] Players start in better countries (no hard limits)
 [/list]
 
-I myself will be playing on whatever team needs players.
+With that out of the way, let's get started!
