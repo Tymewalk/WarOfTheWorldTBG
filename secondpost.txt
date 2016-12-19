@@ -5,14 +5,15 @@ Territory claimed (click for potentially more recent map):
 Units:
 [quote]
 RED TEAM:
- SPAIN
-  3 foot units
+ SPAIN: 1 foot unit
+ PORTUGAL: 1 foot unit
+ FRANCE: 2 foot units
  $250
 
 BLUE TEAM
- CHAD
-  3 foot units
- $250
+ CHAD: 3 foot units
+ NIGER: 3 foot units
+ $150
 [/quote]
 
 Players:
