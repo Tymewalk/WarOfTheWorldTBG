@@ -32,9 +32,9 @@
      inkscape:window-height="744"
      id="namedview29905"
      showgrid="false"
-     inkscape:zoom="0.68773495"
-     inkscape:cx="437.00411"
-     inkscape:cy="229.29613"
+     inkscape:zoom="2.2627417"
+     inkscape:cx="359.13217"
+     inkscape:cy="158.58546"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -7174,4 +7174,9 @@
        id="path36874"
        d="m 694.71906,153.32015 48.41326,-13.32474"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:nodetypes="cc" /></g></svg>
+       sodipodi:nodetypes="cc" /><path
+       sodipodi:nodetypes="cac"
+       inkscape:connector-curvature="0"
+       id="path41653"
+       d="m 274.17456,259.06574 c 0,0 31.12891,-25.31277 47.30166,-37.16778 16.62349,-12.18541 51.06514,-34.86791 51.06514,-34.86791"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" /></g></svg>
