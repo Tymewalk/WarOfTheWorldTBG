@@ -160,8 +160,8 @@ To do so, the following conditions must be met:
 [*] No more "fluff", just the game (which should make this easier to manage).
 [*] Removed Infiltrator and Nuke.
 [*] Sea routes now have some actual rules.
-[*] Completely rework separating
-[*] Players start in better countries (no hard limits)
+[*] Completely reworked separating.
+[*] Players start in better countries (no hard limits).
 [/list]
 
 With that out of the way, let's get started!
