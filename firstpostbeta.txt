@@ -19,12 +19,9 @@ What are the changes? I'll show you.
 
 [b]Basic Rules[/b]
 [u]The Starting Board[/u]
-There are two teams - Red and Blue. (You may rename yourselves as you wish, but all players must agree.)
-
-Unlike the previous WotWs, you begin in a random country decided by me, the GM.
-
+There are two teams - Red and Blue.
+Unlike the previous WotWs, you begin in a country decided by me, the GM.
 I'll try to make this country have about the same characteristics on both sides, although Earth isn't a perfect map.
-
 Each team will start off with 3 foot units in that country, and $250 to spend.
 
 [u]Turn Play[/u]
@@ -89,7 +86,7 @@ If you do not specify a place for the unit to be placed, the action will not be 
 Black dotted line - Sea route (tanks can not move through these)
 Solid black line - Land bridge (tanks can move through these)
 Colored territory - Claimed by (insert color) team
-Darkened colored territory - Empty territory (no units) claimed by (team)
+Darkened colored territory - Empty territory (no units) claimed by team
 
 [u]Special Map Rules[/u]
 - Alaska is its own territory.
@@ -160,6 +157,7 @@ To do so, the following conditions must be met:
 [*] No more "fluff", just the game (which should make this easier to manage).
 [*] Removed Infiltrator and Nuke.
 [*] Sea routes now have some actual rules.
+[*] Completely rework separating
 [/list]
 
 I myself will be playing on whatever team needs players.
