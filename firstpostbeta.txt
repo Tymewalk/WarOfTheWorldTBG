@@ -1,0 +1,170 @@
+[h]War of the World III - Beta[/h]
+[i]Uncharted Territory[/i]
+
+This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix a few, rebalance gameplay, and reduce the workload on both players and me, the GM.
+
+Right now, this is a beta. It may not get quick updates, it may change things, and it most likely will not be very balanced.
+
+[b]Wait, "beta"? What and why?[/b]
+This is a thread where we'll attempt to play a game using the rules here. This game will end prematurely as I'm just using it to test balancing and such.
+The real thread will be posted at the end when this "game" is over.
+Additionally, rules may change at any time during this (for balancing). This will not happen in the real game.
+
+What are the changes? I'll show you.
+(Or, skip to the end and read the quick list of everything I did.)
+
+[i]DISCLAIMER: This RP is entirely fictitious. Any resemblance to real wars is purely coincidental, and should be treated as such.[/i]
+[i]Players: Let's keep it that way. Don't name yourself something or someone from a real war, and don't do anything that would make it very similar to a real war. This is a game, not a war re-enactment.[/i]
+[i](That doesn't mean you shouldn't attack someone because it would look similar, just don't go pretending you're a real war leader.)[/i]
+
+With that out of the way, here are the rules:
+
+[b]Basic Rules[/b]
+[u]The Starting Board[/u]
+There are two teams - Red and Blue. (You may rename yourselves as you wish, but all players must agree.)
+
+Unlike the previous WotWs, you begin in a random country decided by me, the GM.
+
+I'll try to make this country have about the same characteristics on both sides, although Earth isn't a perfect map.
+
+Each team will start off with 3 foot units in that country, and $250 to spend.
+
+[u]Turn Play[/u]
+Unlike WotW II, which used a time-based turn system, turns are taken as soon as all parties have taken their moves. This is on a per team basis, not a per person. Your team may make moves without you.
+
+Every turn may consist of the following actions:
+
+- You may buy up to three units, to be placed in any non-empty territory you own
+- You may battle twice
+- You may move up to four groups of units
+
+At the end of each turn, every team will receive $50.
+
+[u]Taking Actions[/u]
+You may freely discuss strategy without it being counted as an action. This is because all actions must begin with >>, like so:
+[quote]
+>> Buy 3 foot units in Russia.
+[/quote]
+Actions without this will be ignored, and all actions with this will be taken, so long as they are valid.
+
+Please put all actions into one post, if possible. This way I know I can go ahead and make the next turn.
+
+If you are done with your turn, use ">> Done." You will not be able to use any other actions after this for the current turn.
+
+[i]All of these are done with no exceptions, take-backs, or the like. The only time you may use it without being an action is showing another user.[/i]
+
+[u]Movement[/u]
+
+If a territory is unoccupied, moving units there will cause you to then own that territory.
+If a territory is occupied by an enemy, you will do battle (see Battle below).
+
+Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
+
+[u]Battle[/u]
+Battle occurs when one team enters another's territory with troops. It is decided by dice rolls.
+Every attacking troop rolls their attack amount, then the defending troops roll their defense amount.
+If the attack amount is greater than the defense amount minus 10, the troops rolling the lowest are killed first. If it isn't, nothing happens.
+If the defenders are still alive, they then roll for attack, and the attackers roll for defense. The process is repeated similarly.
+If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers.
+
+When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defense they rolled.
+
+[b]Units and Types[/b]
+These are units you can buy.
+
+Foot Units - nothing special. Rolls 1d10 to attack, 1d10 to defend. - $50/unit
+Strongman - stronger than the average unit. Rolls 1d15 to attack, 1d10 to defend. - $100/unit
+Armor - hardier than the average unit. Rolls 1d10 to attack, 1d15 to defend. - $100/unit
+Shield - can not attack, but defends quite nicely. All damage goes to these units first. Does not attack, rolls 1d15 to defend. - $75/unit
+Scouter - simple unit, easy to buy, and good for early conquest. 1d4 to attack, 1d4 to defend. - $25/unit
+Special Forces - heavily trained, super-tough elite units. Rolls 1d20 to attack, 1d20 to defend. - $300/unit
+Tank (Special) - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
+
+When you buy a unit, the territory the unit is placed into must be:
+- Under your control
+- Not gained this turn
+- Not empty
+
+If you do not specify a place for the unit to be placed, the action will not be counted.
+
+[b]Map Key[/b]
+Black dotted line - Sea route (tanks can not move through these)
+Solid black line - Land bridge (tanks can move through these)
+Colored territory - Claimed by (insert color) team
+Darkened colored territory - Empty territory (no units) claimed by (team)
+
+[u]Special Map Rules[/u]
+- Alaska is its own territory.
+- Small islands do not count. (Sorry Hawaiian TBGers.)
+- Clusters of islands are counted as one country (see the Philippines, Indonesia, etc.)
+
+[u]Sea Routes[/u]
+Sea routes can be formed by almost any two countries, as long as there is a valid path across a sea or large body of water between them.
+
+Sea routes will normally form when:
+[list=*]
+[*] Two allied countries (either under one team or two allied teams) are on good terms and would like a route there
+[*] Units are seen moving between the two countries a lot (usually for closer countries)
+[*] Both countries are on "good terms" (only for countries which are not owned by anyone)
+[/list]
+
+Sea routes will normally disband when:
+[list=*]
+[*] A country is stuck in a lot of battles (the country shuts down its sea routes to protect those on the other end)
+[*] Two countries are using the sea route to do battle a lot (one country shuts down the sea route to protect itself)
+[/list]
+
+Anything can happen, however.
+
+Only two sea routes will be altered per country per turn, and no more than five sea routes will be altered per turn.
+
+[b](After this point you can basically skip everything here, since a lot of this isn't available this early in the game.)[/b]
+
+[b]New Alliances[/b]
+[u]New Teams - Separation[/u]
+In the middle of a game, you may decide you dislike your teammates' actions. If this is the case, you may choose to separate yourself and create a new team.
+
+This can be done one of two ways - peacefully or by force.
+
+If you wish to separate peacefully, your team can discuss which resources go to you. Your team must give you at least $25 and one piece of land with at least one unit. (You will obtain all the units in the land given to you.)
+
+If they do not wish for you to separate, you may do so forcefully by taking up to four units, moving them into an empty or unoccupied territory, and then claiming a separation. You will gain the units and the unoccupied territory, however, you will not gain any money this way.
+
+In either case, you may not join with another team for three turns.
+
+Peaceful separations may be done under the following conditions:
+[list=*]
+[*] There are at least two other players on the team
+[*] The team owns at least three territories
+[*] At least four turns have passed
+[*] The team has at least $100
+[/list]
+
+Forceful separations may be done under all of the peaceful conditions, and:
+[list=*]
+[*] At least six turns have passed
+[*] The team has at least seven units total
+[*] The team owns at least four territories
+[/list]
+
+[u]New Alliances - Joining Teams[/u]
+If you happen to decide being on your own doesn't work, you can join forces with another team.
+
+You will become a member of that team, and they will gain all of your resources.
+
+To do so, the following conditions must be met:
+[list=*]
+[*] You have not separated within the last 3 turns (see above)
+[*] The other team has not battled with you in the last turn
+[/list]
+
+[b]TL;DR: What's changed?[/b]
+[list=*]
+[*] Shields cost $75 instead of $50.
+[*] Scouters have 1d4 rolls instead of 1d5.
+[*] Gameplay is based on turns, not on time. (This makes it MUCH easier to manage and also speeds up gameplay when everyone's around.)
+[*] Rules are a lot clearer.
+[*] No more "fluff", just the game (which should make this easier to manage).
+[*] Removed Infiltrator and Nuke.
+[*] Sea routes now have some actual rules.
+[/list]
