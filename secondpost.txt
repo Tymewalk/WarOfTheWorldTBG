@@ -20,7 +20,7 @@ RED TEAM:
  UNITED KINGDOM - Nothing
  ICELAND - Nothing
  GREENLAND - 2 foot unit, 4 strongmen
- $25
+ $400
 
 BLUE TEAM:
  ANGOLA - Nothing
@@ -31,7 +31,7 @@ BLUE TEAM:
  SOMALIA - 9 foot units, 2 shields, 1 special forces, 1 strongman, 2 scouters
  NIGER - 1 scouter
  CHAD - Nothing
- $1225
+ $1600
 
 GREEN TEAM:
  CANADA - Nothing
@@ -50,12 +50,16 @@ GREEN TEAM:
  CHINA - Nothing
  RUSSIA - 6 foot units, 2 special forces, 3 strongmen
  LIBERIA - 1 foot unit
- $650
+ $1075
 
 YELLOW TEAM: 
  ELIMINATED
+
+ORANGE TEAM:
+ DENMARK: 2 foot units
+ $525
 [/quote]
-Turns last calculated for 12:00 UTC turn Jul 1st
+Turns last calculated for 12:00 UTC turn Jul 11th
 
 Players:
 [quote]
