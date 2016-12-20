@@ -1,17 +1,7 @@
-[h]War of the World III (Beta)[/h]
+[h]War of the World III[/h]
 [i]Uncharted Territory[/i]
 
 This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix some of those reasons, rebalance gameplay, and reduce the workload on both players and me, the GM.
-
-Right now, this is a beta. It may not get quick updates, it may change things, and it most likely will not be very balanced.
-
-[b]Wait, "beta"? What and why?[/b]
-This is a thread where we'll attempt to play a game using the rules here. This game may end prematurely as I'm just using it to test balancing and such.
-The real thread will be posted at the end when this "game" is over.
-Additionally, rules may change at any time during this (for balancing). This will not happen in the real game.
-
-What are the changes? I'll show you.
-(Or, skip to the end and read the quick list of everything I did.)
 
 [i]DISCLAIMER: This RP is entirely fictitious. Any resemblance to real wars is purely coincidental, and should be treated as such.[/i]
 [i]Players: Let's keep it that way. Don't name yourself something or someone from a real war, and don't do anything that would make it very similar to a real war. This is a game, not a war re-enactment.[/i]
@@ -149,19 +139,6 @@ To do so, the following conditions must be met:
 [list=*]
 [*] You have not separated within the last 3 turns (see above)
 [*] The other team has not battled with you in the last turn
-[/list]
-
-[b]TL;DR: What's changed?[/b]
-[list=*]
-[*] Shields cost $75 instead of $50.
-[*] Scouters have 1d4 rolls instead of 1d5.
-[*] Gameplay is based on turns, not on time. (This makes it MUCH easier to manage and also speeds up gameplay when everyone's around.)
-[*] Rules are a lot clearer.
-[*] No more "fluff", just the game (which should make this easier to manage).
-[*] Removed Infiltrator and Nuke.
-[*] Sea routes now have some actual rules.
-[*] Completely reworked separating.
-[*] Players start in better countries (no hard limits).
 [/list]
 
 With that out of the way, let's get started!

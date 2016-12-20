@@ -7,12 +7,15 @@ Units:
 RED TEAM:
  SPAIN: 1 foot unit
  PORTUGAL: 1 foot unit
- FRANCE: 2 foot units
- $250
+ FRANCE: 2 foot units, 1 strongman
+ UNITED KINGDOM: 1 foot unit
+ GERMANY: 1 foot unit
+ $100
 
 BLUE TEAM
  CHAD: 3 foot units
  NIGER: 3 foot units
+ SUDAN: 1 foot unit
  $150
 [/quote]
 
@@ -23,6 +26,7 @@ RED TEAM:
  Floofy
  Beagel
  jji10dino
+ Faressain
 
 BLUE TEAM:
  Smiley100P
