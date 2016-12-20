@@ -45,7 +45,7 @@ If a territory is owned by an enemy, but empty, you must be able deal 5 damage t
  - If you do deal 5 damage, you then own the territory.
  - If you do not, no damage is dealt back, and you retreat.
 
-Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
+Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn. (Once a unit has been moved, it can not be moved again.)
 
 [u]Battle[/u]
 Battle occurs when one team enters another's territory with troops. It is decided by dice rolls. 
