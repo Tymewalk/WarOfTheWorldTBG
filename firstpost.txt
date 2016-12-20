@@ -120,13 +120,13 @@ Peaceful separations may be done under the following conditions:
 [list=*]
 [*] There are at least two other players on the team
 [*] The team owns at least three territories
-[*] At least four turns have passed
+[*] The game is on at least turn five
 [*] The team has at least $100
 [/list]
 
 Forceful separations may be done under all of the peaceful conditions, and:
 [list=*]
-[*] At least six turns have passed
+[*] The game is on at least turn seven
 [*] The team has at least seven units total
 [*] The team owns at least four territories
 [/list]
