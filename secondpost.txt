@@ -11,13 +11,14 @@ RED TEAM:
  UNITED KINGDOM: (nothing)
  GERMANY: 1 foot unit
  POLAND: (nothing)
- SWITZERLAND: 2 foot units
+ SWITZERLAND: 3 foot units
  ICELAND: (nothing)
  UKRAINE: (nothing)
  GREENLAND: (nothing)
  RUSSIA: 1 foot unit
- CANADA: 1 foot unit
- $50
+ CANADA: (nothing)
+ USA: 1 foot unit
+ $0
 
 BLUE TEAM
  CHAD: (nothing)
@@ -26,13 +27,15 @@ BLUE TEAM
  MALI: (nothing)
  ALGERIA: 5 foot units
  MAURITANIA: 1 foot unit
- LIBYA: 3 foot units
+ LIBYA: 2 foot units
+ EGYPT: 1 foot unit
  $50
 
 GREEN TEAM:
  MAURITANIA: (nothing)
- BRAZIL: 2 foot units
- $50
+ BRAZIL: 1 foot unit
+ VENEZUELA: 2 foot units
+ $0
 [/quote]
 
 Players:
