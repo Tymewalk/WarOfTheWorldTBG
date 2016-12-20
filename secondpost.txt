@@ -7,24 +7,31 @@ Units:
 RED TEAM:
  SPAIN: 1 foot unit
  PORTUGAL: (nothing)
- FRANCE: 4 foot units, 1 strongman
+ FRANCE: 5 foot units, 1 strongman
  UNITED KINGDOM: (nothing)
  GERMANY: 1 foot unit
  POLAND: (nothing)
- SWITZERLAND: 1 foot unit
+ SWITZERLAND: 2 foot units
  ICELAND: (nothing)
- UKRAINE: 1 foot unit
- GREENLAND: 1 foot unit
- $100
+ UKRAINE: (nothing)
+ GREENLAND: (nothing)
+ RUSSIA: 1 foot unit
+ CANADA: 1 foot unit
+ $50
 
 BLUE TEAM
- CHAD: 1 foot unit
+ CHAD: (nothing)
  NIGER: 1 foot unit
  SUDAN: 1 foot unit
  MALI: (nothing)
  ALGERIA: 5 foot units
  MAURITANIA: 1 foot unit
- LIBYA: 2 foot units
+ LIBYA: 3 foot units
+ $50
+
+GREEN TEAM:
+ MAURITANIA: (nothing)
+ BRAZIL: 2 foot units
  $50
 [/quote]
 
@@ -41,5 +48,7 @@ BLUE TEAM:
  Smiley100P
  Wolfslime123
  Epicness123
+
+GREEN TEAM:
  TBGChildGamer
 [/quote]
