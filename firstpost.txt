@@ -1,137 +1,167 @@
-[b][u]War of the World II: Rebirth[/b][/u]
+[h]War of the World III (Beta)[/h]
+[i]Uncharted Territory[/i]
 
-DISCLAIMER: [i]This game does not intend, in any way, shape, or form, to resemble the actual World Wars. Any similar-looking elements are purely coincidental.[/i]
-PLAYERS: [i]Let's keep it that way. Don't name yourself something from a real war, and don't intentionally recreate real battles. (Coincidence is OK.)[/i]
+This is a reboot of my War of the World TBG. Both previous ones failed due to a number of reasons. This one attempts to fix some of those reasons, rebalance gameplay, and reduce the workload on both players and me, the GM.
 
-The year is 2156. After the events of the first War of the World, a second war was initiated. The world, still shaky, must get up and fight if it will overcome this.
-This new war promises victory for one and defeat for everyone else. The question is - will you be the victor?
+Right now, this is a beta. It may not get quick updates, it may change things, and it most likely will not be very balanced.
 
-[b]The Rules[/b]
-Each team starts with 3 foot units. These units are your military power - they conquer, seek, and destroy. All information regarding units is public, there are no "spies", secret units, or other hidden types.
+[b]Wait, "beta"? What and why?[/b]
+This is a thread where we'll attempt to play a game using the rules here. This game may end prematurely as I'm just using it to test balancing and such.
+The real thread will be posted at the end when this "game" is over.
+Additionally, rules may change at any time during this (for balancing). This will not happen in the real game.
 
-You also start $1,000 to spend, which you can buy units with. Each team gains only $75 each turn, so spend wisely!
+What are the changes? I'll show you.
+(Or, skip to the end and read the quick list of everything I did.)
 
-[b]Units and Types[/b]
-Units may move to and from bordering countries, or across sea routes (see [b]Moving[/b] below).
+[i]DISCLAIMER: This RP is entirely fictitious. Any resemblance to real wars is purely coincidental, and should be treated as such.[/i]
+[i]Players: Let's keep it that way. Don't name yourself something or someone from a real war, and don't do anything that would make it very similar to a real war. This is a game, not a war re-enactment.[/i]
+[i](That doesn't mean you shouldn't attack someone because it would look similar, just don't go pretending you're a real war leader.)[/i]
+
+[b]Basic Rules[/b]
+[u]The Starting Board[/u]
+There are two teams - Red and Blue.
+Unlike the previous WotWs, you begin in a country decided by me, the GM.
+I'll try to make this country have about the same characteristics on both sides, although Earth isn't a perfect map.
+Each team will start off with 3 foot units in that country, and $250 to spend.
+
+[u]Turn Play[/u]
+Unlike WotW II, which used a time-based turn system, turns are taken as soon as all parties have taken their moves. This is on a per team basis, not a per person. Your team may make moves without you.
+
+Every turn may consist of the following actions:
+
+- You may buy up to three units, to be placed in any non-empty territory you own (see Units below)
+- You may battle twice
+- You may move up to four groups of units
+
+At the end of each turn, every team will receive $50.
+
+[u]Taking Actions[/u]
+You may freely discuss strategy without it being counted as an action. This is because all actions must begin with >>, like so:
+[quote]
+>> Buy 3 foot units in Russia.
+[/quote]
+Actions without this will be ignored, and all actions with this will be taken, so long as they are valid.
+
+Please put all actions into one post, if possible. This way I know I can go ahead and make the next turn.
+
+If you are done with your turn, use ">> Done." You will not be able to use any other actions after this for the current turn.
+
+[i]All of these are done with no exceptions, take-backs, or the like. The only time you may use it without being an action is showing another user.[/i]
+
+[u]Movement[/u]
+If a territory is unoccupied, moving units there will cause you to then own that territory.
+If a territory is occupied by an enemy, you will do battle (see Battle below).
+If a territory is owned by an enemy, but empty, you must be able deal 5 damage to it to claim it.
+ - If you do deal 5 damage, you then own the territory.
+ - If you do not, no damage is dealt back, and you retreat.
+
+Units may move across sea routes (dashed lines), or across land borders. You may only move each group of units once per turn.
+
+[u]Battle[/u]
+Battle occurs when one team enters another's territory with troops. It is decided by dice rolls. 
+Every attacking troop rolls their attack amount, then the defending troops roll their defense amount.
+The defenders who rolled the least are killed first, in order of value. (For example, foot units are killed before tanks. The only exception is the shield.)
+If the defenders are still alive, they then roll to attack, and the attackers roll for defense. The process is repeated similarly.
+If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers. 
+(If the attackers die, nothing happens.)
+
+When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defense they rolled.
+
+[b]Units[/b]
+These are units you can buy.
 
 Foot Units - nothing special. Rolls 1d10 to attack, 1d10 to defend. - $50/unit
 Strongman - stronger than the average unit. Rolls 1d15 to attack, 1d10 to defend. - $100/unit
 Armor - hardier than the average unit. Rolls 1d10 to attack, 1d15 to defend. - $100/unit
-Shield - can not attack, but defends quite nicely. All damage goes to these units first. Does not attack, rolls 1d15 to defend. - $50/unit
-Scouter - quick little guy to buy for cheap. 1d5 to attack, 1d5 to defend. - $25/unit
-Infiltrator - can pass through enemy terrain, but only if friendly terrain is on the other side. Rolls 1d10 to attack, 1d10 to defend. - $100/unit
+Shield - can not attack, but defends quite nicely. All damage goes to these units first. Does not attack, rolls 1d15 to defend. - $75/unit
+Scouter - simple unit, easy to buy, and good for early conquest. 1d4 to attack, 1d4 to defend. - $25/unit
 Special Forces - heavily trained, super-tough elite units. Rolls 1d20 to attack, 1d20 to defend. - $300/unit
-Tank (Special) - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
-Nuke (Special) - a heavily-armored missile that obliterates all targets. Can travel up to 2 spaces. Uses Nuke-style attack. Rolls 1d20 to attack each unit,  rolls 1d30 + 30 to defend. - $1000/unit
+Tank - a metal box with missiles. Moves like land units except can not move through sea. Rolls 1d20 to attack, 1d20 to defend. - $250/unit
 
 When you buy a unit, the territory the unit is placed into must be:
 - Under your control
 - Not gained this turn
 - Not empty
 
-If you do not specify a place for the unit to be placed, the action will not count.
-
-[b]Special attack types[/b]
-[u]Nuke[/u]
-Attacking Nukes may not attack with anyone else.
-When Nukes attack, they deal their damage to EVERY unit individually, not the standard way.
-However, nukes do not attack first. The defenders deal their damage first, giving a chance to destroy the nuke beforehand.
-
-[b]Moving[/b]
-You may move to any territory connected to you through land, or through sea routes (marked on the map). Special rules are:
-[list=*]
-[*]Alaska is its own territory. US doesn't claim it.[/*]
-[*]Small islands like Hawaii are not counted.[/*]
-[*]Canals like the Panama and Suez canals do not block land travel. Tanks can move through them.[/*]
-[/list]
+If you do not specify a valid place for the unit to be placed, the action will not be counted.
 
 [b]Map Key[/b]
 Black dotted line - Sea route (tanks can not move through these)
-Two black lines - Land bridge (tanks can move through these)
-Colored territory - Claimed by (insert color) team
-Darkened colored territory - Empty territory (no units) claimed by (team)
+Solid black line - Land bridge (tanks can move through these)
+Colored territory - Claimed by that color's team
+Darkened colored territory - Empty territory (no units) claimed by that color's team
 
-Some territories are split, but for the sake of clarity, count as one:
+[u]Special Map Rules[/u]
+- Alaska is its own territory.
+- Small islands do not count. (Sorry Hawaiian TBGers.)
+- Clusters of islands are counted as one country (see the Philippines, Indonesia, etc.)
+
+[u]Sea Routes[/u]
+Sea routes can be formed by almost any two countries, as long as there is a valid path across a sea or large body of water between them.
+
+Sea routes will normally form when:
 [list=*]
-[*]Indonesia[/*]
-[*]Australia/Tasmania[/*]
-[*]New Zealand[/*]
-[*]Philippines[/*]
+[*] Two allied countries (either under one team or two allied teams) are on good terms and would like a route there
+[*] Units are seen moving between the two countries a lot (usually for closer countries)
+[*] Both countries are on "good terms" (only for countries which are not owned by anyone)
 [/list]
 
-[b]Territory[/b]
-As mentioned, each team starts with one territory. To conquer more:
-- if it is unclaimed ground, simply enter with troops.
-- if it is enemy territory that is empty, attack with 5 points or higher. If you fail, your troops retreat.
-- if it is enemy territory that is filled with units, defeat the troops there.
+Sea routes will normally disband when:
+[list=*]
+[*] A country is stuck in a lot of battles (the country shuts down its sea routes to protect those on the other end)
+[*] Two countries are using the sea route to do battle a lot (one country shuts down the sea route to protect itself)
+[/list]
 
-If a territory is claimed but empty, it will be marked by a darker shade of the team's color.
+These are just guidelines, though. However, only two sea routes will be altered per country per turn, and no more than five sea routes will be altered per turn.
 
-[b]Battle[/b]
-Battle occurs when one team enters another's territory with troops. It is decided by dice rolls.
-Every attacking troop rolls their attack amount, then the defending troops roll their defence amount.
-If the attack amount is greater than the defence amount minus 10, the troops rolling the lowest are killed first. If it isn't, nothing happens.
-If the defenders are still alive, they then roll for attack, and the attackers roll for defence. The process is repeated similarly.
-If both sides have troops that are still alive, the attackers retreat. If the defenders die, then the territory is claimed by the attackers.
+[b](After this point you can basically skip everything here, since a lot of this isn't available this early in the game.)[/b]
 
-When the lowest rolling troops are killed first, each has to take D points of damage before they die, where D is the defence they rolled.
+[b]New Alliances[/b]
+[u]New Teams - Separation[/u]
+In the middle of a game, you may decide you dislike your teammates' actions. If this is the case, you may choose to separate yourself and create a new team.
 
-[u]Example[/u]
-Attacking team sends 3 strongmen to fight 3 foot units.
-The strongmen roll 6, 11, and 8 for 25 total damage. The foot units roll 7, 9, and 10, for a total of 26 defence.
+This can be done one of two ways - peacefully or by force.
 
-Since 25 > 26 - 10, the foot units rolling 7 and 9 are killed. The foot unit rolling 10 survives, as there was not enough damage left to kill him.
+If you wish to separate peacefully, your team can agree on which resources go to you. Your team must give you at least $25 and one piece of land with at least one unit. (You will obtain all the units in the land given to you.)
+If they do not wish for you to separate, you may do so forcefully by taking up to four units, moving them into an empty or unoccupied territory, and then claiming a separation. You will gain the units and the unoccupied territory, however, you will not gain any money this way.
+In either case, you may not join with another team for three turns.
 
-The lone foot unit then rolls 6, and the strongmen roll 4, 6, and 3, for a total of 13 defence.
-The strongman rolling 3 is killed, but no others are.
+Peaceful separations may be done under the following conditions:
+[list=*]
+[*] There are at least two other players on the team
+[*] The team owns at least three territories
+[*] At least four turns have passed
+[*] The team has at least $100
+[/list]
 
-Since both sides are still alive, the strongmen (down one member) retreat back to their original territory.
+Forceful separations may be done under all of the peaceful conditions, and:
+[list=*]
+[*] At least six turns have passed
+[*] The team has at least seven units total
+[*] The team owns at least four territories
+[/list]
 
-[b]Turns[/b]
-Each team's turn lasts every 12 hours. Turns are reset at 00:00,and 12:00 each day in UTC time.
+[u]New Alliances - Joining Teams[/u]
+If you happen to decide being on your own doesn't work, you can join forces with another team.
+You will become a member of that team, and they will gain all of your resources.
 
-In one turn you may:
-- Buy up to 3 units
-- Move units from one territory to another (you may do this 5 times, see note)
-- Battle once
+To do so, the following conditions must be met:
+[list=*]
+[*] You have not separated within the last 3 turns (see above)
+[*] The other team has not battled with you in the last turn
+[/list]
 
-[u]Move Specifications[/u]
-One move counts as moving any number of troops from one territory to another.
+[b]TL;DR: What's changed?[/b]
+[list=*]
+[*] Shields cost $75 instead of $50.
+[*] Scouters have 1d4 rolls instead of 1d5.
+[*] Gameplay is based on turns, not on time. (This makes it MUCH easier to manage and also speeds up gameplay when everyone's around.)
+[*] Rules are a lot clearer.
+[*] No more "fluff", just the game (which should make this easier to manage).
+[*] Removed Infiltrator and Nuke.
+[*] Sea routes now have some actual rules.
+[*] Completely reworked separating.
+[*] Players start in better countries (no hard limits).
+[/list]
 
-For instance, moving 6 troops from Canada to Alaska is one move, but moving 4 more troops from Canada to the USA is a separate move.
-You may also not move troops that have already been moved.
-
-[u]Marking Actions[/u]
-Mark your actions like this:
-"~~> I buy 3 foot units in Russia."
-"~~> I move 1 tank and 1 strongman to Poland."
-
-This WILL signify your action has been taken, and now counts towards the total. Use caution, using it in a post means your action gets taken, whether you like it or not!
-You don't have to do everything in one post, in fact, multiple players on one team can act on the same turn.
-
-[b]Other Nations?[/b]
-You may conquer new land connected to your team's territory at any time and secede from your main country. In doing so you will recieve 2 foot units and $150.
-You may NOT abuse this to gain an advantage. Just because your team is failing does not mean you can just leave and get a fresh start.
-
-[b]Negotiations[/b]
-Yes, you can trade units, cash, and territory.
-You may NOT trade all your territory.
-If you want to trade everything, however, you may surrender to a team.
-Surrender is not allowed if:
-- You are one of only 2 teams remaining (in this case you must fight out the battle)
-- One party is a new nation that was created 10 or less turns ago
-- You are attempting to scam for extra units/coins/other advantages
-
-[b]New Stuff[/b]
-To fit in with story (and game balance) I may add new stuff, such as units. In doing so I will check with all players that this is OK.
-
-[b]Fairness Agreement[/b]
-By joining this game I agree that I will act fairly among my teammates, cooperate and plan strategy, and will try to effectively play, regardless of my team's current state.
-I will not abuse the seceding or surrender features of the game for an advantage, and will use these features politely and properly.
-
-Now that that's out of the way, here is a form:
-[quote]
-Team:
-Catchphrase (for silliness):
-I have read and agree to the Fairness Agreement above.
-[/quote]
+With that out of the way, let's get started!
