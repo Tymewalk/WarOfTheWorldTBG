@@ -15,9 +15,9 @@ RED TEAM:
  ICELAND: (nothing)
  UKRAINE: (nothing)
  GREENLAND: (nothing)
- RUSSIA: 3 foot units
+ RUSSIA: 5 foot units
  CANADA: (nothing)
- $50
+ $75
 
 BLUE TEAM
  CHAD: (nothing)
@@ -29,15 +29,16 @@ BLUE TEAM
  LIBYA: 2 foot units
  EGYPT: 2 foot units
  MOROCCO: 2 foot units
- $200
+ $175
 
 GREEN TEAM:
  BRAZIL: 1 foot unit
  VENEZUELA: (nothing)
  USA: (nothing)
  MEXICO: 1 foot unit
- CANADA: 3 foot units
- $50
+ CANADA: 1 foot unit
+ ALASKA: 2 foot units
+ $100
 [/quote]
 
 Players:
@@ -57,3 +58,8 @@ BLUE TEAM:
 GREEN TEAM:
  TBGChildGamer
 [/quote]
+
+Pacts:
+[list=*]
+[*] For $25 per turn from Blue Team, Red Team will actively seek out and help to destroy Green Team.
+[/list]
