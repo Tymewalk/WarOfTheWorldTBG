@@ -17,7 +17,7 @@ RED TEAM:
  GREENLAND: (nothing)
  RUSSIA: 3 foot units
  CANADA: (nothing)
- $0
+ $50
 
 BLUE TEAM
  CHAD: (nothing)
@@ -29,7 +29,7 @@ BLUE TEAM
  LIBYA: 2 foot units
  EGYPT: 2 foot units
  MOROCCO: 2 foot units
- $150
+ $200
 
 GREEN TEAM:
  BRAZIL: 1 foot unit
@@ -37,7 +37,7 @@ GREEN TEAM:
  USA: (nothing)
  MEXICO: 1 foot unit
  CANADA: 3 foot units
- $0
+ $50
 [/quote]
 
 Players:
