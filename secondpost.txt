@@ -15,10 +15,11 @@ RED TEAM:
  ICELAND: (nothing)
  UKRAINE: (nothing)
  GREENLAND: (nothing)
- RUSSIA: 6 foot units
+ RUSSIA: (nothing)
  CANADA: (nothing)
  CHINA: 1 scouter
- $0
+ ALASKA: 3 foot units
+ $75
 
 BLUE TEAM
  CHAD: (nothing)
@@ -26,19 +27,18 @@ BLUE TEAM
  SUDAN: (nothing)
  MALI: (nothing)
  ALGERIA: (nothing)
- MAURITANIA: 3 foot units
+ MAURITANIA: (nothing)
  LIBYA: 2 foot units
  EGYPT: 2 foot units
  MOROCCO: 2 foot units
- $175
+ BRAZIL: 6 foot units
+ $50
 
 GREEN TEAM:
- BRAZIL: 1 foot unit
  VENEZUELA: (nothing)
  USA: (nothing)
  MEXICO: (nothing)
- CANADA: 1 foot unit
- ALASKA: 2 foot units
+ CANADA: 2 foot units
  PERU: 1 foot unit
  $100
 [/quote]
