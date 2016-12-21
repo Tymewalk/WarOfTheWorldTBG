@@ -5,9 +5,9 @@ Territory claimed (if you're not seeing the latest changes, click here):
 Units:
 [quote]
 RED TEAM:
- SPAIN: 1 foot unit
+ SPAIN: (nothing)
  PORTUGAL: (nothing)
- FRANCE: 5 foot units, 1 strongman
+ FRANCE: 6 foot units, 1 strongman
  UNITED KINGDOM: (nothing)
  GERMANY: 1 foot unit
  POLAND: (nothing)
@@ -15,28 +15,29 @@ RED TEAM:
  ICELAND: (nothing)
  UKRAINE: (nothing)
  GREENLAND: (nothing)
- RUSSIA: 2 foot units
+ RUSSIA: 3 foot units
  CANADA: (nothing)
- $50
+ $0
 
 BLUE TEAM
  CHAD: (nothing)
  NIGER: 1 foot unit
  SUDAN: (nothing)
  MALI: (nothing)
- ALGERIA: 3 foot units
- MAURITANIA: 1 foot unit
+ ALGERIA: (nothing)
+ MAURITANIA: 3 foot units
  LIBYA: 2 foot units
  EGYPT: 2 foot units
  MOROCCO: 2 foot units
  $150
 
 GREEN TEAM:
- MAURITANIA: (nothing)
  BRAZIL: 1 foot unit
  VENEZUELA: (nothing)
- USA: 3 foot units
- $50
+ USA: (nothing)
+ MEXICO: 1 foot unit
+ CANADA: 3 foot units
+ $0
 [/quote]
 
 Players:
